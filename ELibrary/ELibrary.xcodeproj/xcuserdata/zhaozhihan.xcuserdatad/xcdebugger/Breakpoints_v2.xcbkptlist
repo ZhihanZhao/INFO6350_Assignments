@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "977545A3-5A73-438F-87E8-050DDAAFAF47"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B734F97C-6DC6-4A12-B4AD-CC138CD0FF51"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ELibrary/Controllers/SignupViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "SignupViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B734F97C-6DC6-4A12-B4AD-CC138CD0FF51 - 9e1ebe3ecb446021"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ELibrary.SignupViewController.txtAccount.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ELibrary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhaozhihan/Desktop/NEU/6350/Zhihan/ELibrary/ELibrary/Controllers/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B734F97C-6DC6-4A12-B4AD-CC138CD0FF51 - f970a47f38939435"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ELibrary.SignupViewController.txtAccount.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ELibrary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhaozhihan/Desktop/NEU/6350/Zhihan/ELibrary/ELibrary/Controllers/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "B734F97C-6DC6-4A12-B4AD-CC138CD0FF51 - 7aa2cc57b883da89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ELibrary.SignupViewController.txtAccount.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ELibrary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhaozhihan/Desktop/NEU/6350/Zhihan/ELibrary/ELibrary/Controllers/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "B734F97C-6DC6-4A12-B4AD-CC138CD0FF51 - cfc3405dc0535c29"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ELibrary.SignupViewController.txtAccount.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ELibrary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhaozhihan/Desktop/NEU/6350/Zhihan/ELibrary/ELibrary/Controllers/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "B734F97C-6DC6-4A12-B4AD-CC138CD0FF51 - 52d95adc0b5ccde2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ELibrary.SignupViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ELibrary.SignupViewController"
+                  moduleName = "ELibrary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhaozhihan/Desktop/NEU/6350/Zhihan/ELibrary/ELibrary/Controllers/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "B734F97C-6DC6-4A12-B4AD-CC138CD0FF51 - 75bf20adb63f5d3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ELibrary.SignupViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ELibrary.SignupViewController&gt;"
+                  moduleName = "ELibrary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhaozhihan/Desktop/NEU/6350/Zhihan/ELibrary/ELibrary/Controllers/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
